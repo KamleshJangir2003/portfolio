@@ -1,0 +1,1324 @@
+Uri: https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v16/LDI2apCSOBg7S-QT7pa8FsOs.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rajdhani\v16\LDI2apCSOBg7S-QT7pa8FsOs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v16/LDI2apCSOBg7S-QT7pasEcOs.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rajdhani\v16\LDI2apCSOBg7S-QT7pasEcOs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v16/LDI2apCSOBg7S-QT7pb0EMOs.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rajdhani\v16\LDI2apCSOBg7S-QT7pb0EMOs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v16/LDI2apCSOBg7S-QT7pbYF8Os.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rajdhani\v16\LDI2apCSOBg7S-QT7pbYF8Os.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v16/LDIxapCSOBg7S-QT7q4A.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rajdhani\v16\LDIxapCSOBg7S-QT7q4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v30/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE0Uw.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rubik\v30\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v30/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE0Uw.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rubik\v30\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v30/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE0Uw.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rubik\v30\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v30/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FEUw.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rubik\v30\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v30/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFEUw.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rubik\v30\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v30/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEUw.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rubik\v30\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v30/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFEUw.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rubik\v30\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v30/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UA.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rubik\v30\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v30/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rubik\v30\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v30/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rubik\v30\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v30/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1UA.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rubik\v30\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v30/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rubik\v30\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v30/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1UA.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rubik\v30\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v30/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UA.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\s\rubik\v30\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UA.ttf
+Content Type: font/ttf
+
+Uri: https://inversweb.com/product/html/reeni/about-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\about-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/about.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\about.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/assets/css/plugins/odometer.css
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\css\plugins\odometer.css
+Content Type: text/css
+
+Uri: https://inversweb.com/product/html/reeni/assets/css/plugins/swiper.css
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\css\plugins\swiper.css
+Content Type: text/css
+
+Uri: https://inversweb.com/product/html/reeni/assets/css/style.css
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\css\style.css
+Content Type: text/css
+
+Uri: https://inversweb.com/product/html/reeni/assets/css/vendor/animate.min.css
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\css\vendor\animate.min.css
+Content Type: text/css
+
+Uri: https://inversweb.com/product/html/reeni/assets/css/vendor/bootstrap.min.css
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\css\vendor\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://inversweb.com/product/html/reeni/assets/css/vendor/fontawesome.css
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\css\vendor\fontawesome.css
+Content Type: text/css
+
+Uri: https://inversweb.com/product/html/reeni/assets/fonts/fa-brands-400.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://inversweb.com/product/html/reeni/assets/fonts/fa-brands-400.woff2
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://inversweb.com/product/html/reeni/assets/fonts/fa-duotone-900.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\fonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://inversweb.com/product/html/reeni/assets/fonts/fa-duotone-900.woff2
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\fonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://inversweb.com/product/html/reeni/assets/fonts/fa-light-300.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\fonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://inversweb.com/product/html/reeni/assets/fonts/fa-light-300.woff2
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://inversweb.com/product/html/reeni/assets/fonts/fa-regular-400.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://inversweb.com/product/html/reeni/assets/fonts/fa-regular-400.woff2
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://inversweb.com/product/html/reeni/assets/fonts/fa-solid-900.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://inversweb.com/product/html/reeni/assets/fonts/fa-solid-900.woff2
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://inversweb.com/product/html/reeni/assets/fonts/fa-thin-100.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\fonts\fa-thin-100.ttf
+Content Type: font/ttf
+
+Uri: https://inversweb.com/product/html/reeni/assets/fonts/fa-thin-100.woff2
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\fonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://inversweb.com/product/html/reeni/assets/fonts/fa-v4compatibility.ttf
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\fonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://inversweb.com/product/html/reeni/assets/fonts/fa-v4compatibility.woff2
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\fonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/about/logo-1.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\about\logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/about/logo-2.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\about\logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-background-02.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-background-02.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-background-04.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-background-04.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-background-one.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-background-one.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-four-left-bg-img.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-four-left-bg-img.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-four-right-bg-img.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-four-right-bg-img.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-shape-five-bg.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-shape-five-bg.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-shape-two.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-shape-two.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-six-shape.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-six-shape.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-user-image-02.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-user-image-02.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-user-image-03.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-user-image-03.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-user-image-04.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-user-image-04.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-user-image-05.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-user-image-05.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-user-image-06.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-user-image-06.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-user-image-five.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-user-image-five.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-user-image-four.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-user-image-four.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-user-image-one.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-user-image-one.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-user-image-six.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-user-image-six.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-user-image-three.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-user-image-three.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-user-image-two-red-bg.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-user-image-two-red-bg.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/banner-user-image-two.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\banner-user-image-two.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/bg-six-shape-left-side.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\bg-six-shape-left-side.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/header-left-user.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\header-left-user.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/instructor.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\instructor.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/left-bg-text-para-doc.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\left-bg-text-para-doc.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/logo-under-image-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\logo-under-image-2.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/logo-under-image.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\logo-under-image.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/portfolio-image-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\portfolio-image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/portfolio-image.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\portfolio-image.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/banner/right-bg-text-para-doc.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\banner\right-bg-text-para-doc.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/01.webp
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\01.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/02.webp
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\02.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/03.webp
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\03.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/04.webp
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\04.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/05.webp
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\05.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/06.webp
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\06.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/bg-image-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\bg-image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/bg-image-10.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\bg-image-10.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/bg-image-11.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\bg-image-11.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/bg-image-12.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\bg-image-12.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/bg-image-13.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\bg-image-13.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/bg-image-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\bg-image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/bg-image-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\bg-image-3.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/bg-image-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\bg-image-4.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/bg-image-5.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\bg-image-5.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/bg-image-6.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\bg-image-6.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/bg-image-7.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\bg-image-7.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/bg-image-8.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\bg-image-8.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/bg-image-9.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\bg-image-9.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/bg/patern.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\bg\patern.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/about-me-user-img.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\about-me-user-img.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/blog-classic-card-img-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\blog-classic-card-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/blog-classic-card-img-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\blog-classic-card-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/blog-classic-card-img-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\blog-classic-card-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/blog-details-swiper-img.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\blog-details-swiper-img.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/blog-img-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\blog-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/blog-img-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\blog-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/blog-img-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\blog-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/blog-img-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\blog-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/blog-img-5.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\blog-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/blog-img-6.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\blog-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/blog-img-7.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\blog-img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/blog-img-8.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\blog-img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/blog-img-9.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\blog-img-9.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/comments-img-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\comments-img-1.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/comments-img-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\comments-img-2.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/details/01.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\details\01.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/single-post-card-img-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\single-post-card-img-1.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/single-post-card-img-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\single-post-card-img-2.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/blog/single-post-card-img-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\blog\single-post-card-img-3.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/breadcrumb/breadcum-bg.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\breadcrumb\breadcum-bg.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/contact/01.webp
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\contact\01.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/custom-line/custom-line.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\custom-line\custom-line.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/coming-soon-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\coming-soon-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/coming-soon.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\coming-soon.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-1-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-1-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-1.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-10-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-10-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-10.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-10.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-11-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-11-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-11.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-11.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-12-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-12-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-12.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-12.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-13-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-13-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-13.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-13.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-14-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-14-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-14.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-14.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-15-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-15-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-15.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-15.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-16-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-16-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-16.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-16.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-17-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-17-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-17.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-17.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-18-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-18-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-18.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-18.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-19-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-19-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-19.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-19.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-2-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-2-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-2.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-20-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-20-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-20.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-20.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-21-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-21-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-21.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-21.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-22-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-22-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-22.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-22.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-3-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-3-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-3.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-4-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-4-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-4.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-4.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-5-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-5-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-5.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-5.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-6-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-6-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-6.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-6.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-7-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-7-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-7.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-7.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-8-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-8-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-8.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-8.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-9-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-9-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/demo/home-9.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\demo\home-9.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/experiences/01.webp
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\experiences\01.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/experiences/02.webp
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\experiences\02.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/experiences/expert-img-two.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\experiences\expert-img-two.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/experiences/expert-img.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\experiences\expert-img.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/favicon.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/footer/footer-bg-img.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\footer\footer-bg-img.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/icons/cursor-x.webp
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\icons\cursor-x.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/icons/icon-01.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\icons\icon-01.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/icons/icon-02.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\icons\icon-02.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/icons/icon-03.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\icons\icon-03.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/icons/icon-04.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\icons\icon-04.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/icons/quote.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\icons\quote.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/latest-portfolio/portfoli-img-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\latest-portfolio\portfoli-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/latest-portfolio/portfoli-img-2.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\latest-portfolio\portfoli-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/latest-portfolio/portfoli-img-3.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\latest-portfolio\portfoli-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/latest-portfolio/portfoli-img-4.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\latest-portfolio\portfoli-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/latest-portfolio/portfoli-img-5.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\latest-portfolio\portfoli-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/latest-portfolio/portfoli-img-6.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\latest-portfolio\portfoli-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/latest-portfolio/portfoli-img-7.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\latest-portfolio\portfoli-img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/latest-portfolio/portfoli-img-8.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\latest-portfolio\portfoli-img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/latest-portfolio/tab-image-1.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\latest-portfolio\tab-image-1.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/latest-portfolio/tab-image-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\latest-portfolio\tab-image-2.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/latest-portfolio/tab-image-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\latest-portfolio\tab-image-3.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/latest-portfolio/tab-image-4.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\latest-portfolio\tab-image-4.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/latest-portfolio/tab-image-5.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\latest-portfolio\tab-image-5.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/latest-portfolio/tab-image-6.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\latest-portfolio\tab-image-6.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/latest-portfolio/tab-image-7.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\latest-portfolio\tab-image-7.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/logo/banner-user-image-04.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\logo\banner-user-image-04.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/logo/logo-blue-white.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\logo\logo-blue-white.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/logo/logo-blue.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\logo\logo-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/logo/logo-pink.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\logo\logo-pink.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/logo/logo-white-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\logo\logo-white-2.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/logo/logo-white-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\logo\logo-white-3.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/logo/logo-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\logo\logo-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/logo/logo-yello-white.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\logo\logo-yello-white.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/logo/logo-yello.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\logo\logo-yello.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/logo/man.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\logo\man.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/logo/white-logo-reeni-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\logo\white-logo-reeni-2.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/logo/white-logo-reeni-3.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\logo\white-logo-reeni-3.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/logo/white-logo-reeni-4.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\logo\white-logo-reeni-4.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/logo/white-logo-reeni.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\logo\white-logo-reeni.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/my-expertise/logo-4.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\my-expertise\logo-4.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/my-expertise/logo-5.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\my-expertise\logo-5.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/my-expertise/logo-6.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\my-expertise\logo-6.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/our-supported-company/company-logo-1.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\our-supported-company\company-logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/our-supported-company/company-logo-2.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\our-supported-company\company-logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/our-supported-company/company-logo-3.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\our-supported-company\company-logo-3.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/our-supported-company/company-logo-4.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\our-supported-company\company-logo-4.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/our-supported-company/company-logo-5.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\our-supported-company\company-logo-5.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/our-supported-company/company-logo-6.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\our-supported-company\company-logo-6.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/our-supported-company/company-logo-7.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\our-supported-company\company-logo-7.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/our-supported-company/company-logo-8.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\our-supported-company\company-logo-8.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/portfolio/01.webp
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\portfolio\01.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/portfolio/02.webp
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\portfolio\02.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/portfolio/03.webp
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\portfolio\03.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/portfolio/04.webp
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\portfolio\04.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/portfolio/05.webp
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\portfolio\05.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/portfolio/06.webp
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\portfolio\06.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/portfolio/07.webp
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\portfolio\07.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/portfolio/08.webp
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\portfolio\08.webp
+Content Type: image/webp
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/portfolio/portfolio-01.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\portfolio\portfolio-01.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/portfolio/portfolio-02.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\portfolio\portfolio-02.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/portfolio/portfolio-03.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\portfolio\portfolio-03.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/portfolio/portfolio-04.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\portfolio\portfolio-04.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/pricing/pricing-logo-1.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\pricing\pricing-logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/pricing/pricing-logo-2.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\pricing\pricing-logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/pricing/pricing-logo-3.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\pricing\pricing-logo-3.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/projects-details/project-detials-swiper-img-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\projects-details\project-detials-swiper-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/projects-details/project-detials-swiper-img-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\projects-details\project-detials-swiper-img-2.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/projects-details/thumnail-img.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\projects-details\thumnail-img.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/services/latest-services-user-image-two-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\services\latest-services-user-image-two-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/services/latest-services-user-image-two.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\services\latest-services-user-image-two.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/services/latest-services-user-image-white.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\services\latest-services-user-image-white.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/services/latest-services-user-image.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\services\latest-services-user-image.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/services/service-detials-thumnail-wrap.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\services\service-detials-thumnail-wrap.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/skill/figma.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\skill\figma.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/skill/framer.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\skill\framer.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/skill/laravel.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\skill\laravel.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/skill/react.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\skill\react.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/skill/webflow.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\skill\webflow.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/skill/wordpress.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\skill\wordpress.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/testimonial/bg-image-1png.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\testimonial\bg-image-1png.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/testimonial/bg-image-2.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\testimonial\bg-image-2.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/testimonial/client-img-1.jpg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\testimonial\client-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/testimonial/left-bg-img.png
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\testimonial\left-bg-img.png
+Content Type: image/png
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/testimonial/quat-logo.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\testimonial\quat-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/testimonial/testimonial-icon.svg
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\testimonial\testimonial-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/video/fitness.mp4
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\video\fitness.mp4
+Content Type: video/mp4
+
+Uri: https://inversweb.com/product/html/reeni/assets/images/video/model.mp4
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\images\video\model.mp4
+Content Type: video/mp4
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/main.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\main.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/plugins/animation.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\plugins\animation.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/plugins/contact.form.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\plugins\contact.form.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/plugins/gsap.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\plugins\gsap.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/plugins/isotop.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\plugins\isotop.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/plugins/odometer.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\plugins\odometer.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/plugins/scrolltigger.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\plugins\scrolltigger.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/plugins/scrolltoplugins.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\plugins\scrolltoplugins.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/plugins/smoothscroll.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\plugins\smoothscroll.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/plugins/splittext.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\plugins\splittext.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/plugins/swiper.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\plugins\swiper.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/plugins/text-type.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\plugins\text-type.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/vendor/appear.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\vendor\appear.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/vendor/backtop.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\vendor\backtop.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/vendor/bootstrap.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\vendor\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/vendor/jquery-one-page-nav.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\vendor\jquery-one-page-nav.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/vendor/jquery-ui.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\vendor\jquery-ui.min.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/vendor/jquery.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\vendor\jquery.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/vendor/particle.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\vendor\particle.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/vendor/waw.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\vendor\waw.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/assets/js/vendor/waypoints.min.js
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\assets\js\vendor\waypoints.min.js
+Content Type: text/javascript
+
+Uri: https://inversweb.com/product/html/reeni/blog-details-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\blog-details-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/blog-details.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\blog-details.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/blog-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\blog-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/blog.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\blog.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/contact-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\contact-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/contact.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\contact.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-02-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-02-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-02.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-02.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-03-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-03-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-03.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-03.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-04-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-04-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-04.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-04.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-05-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-05-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-05.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-05.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-06-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-06-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-06.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-06.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-07-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-07-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-07.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-07.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-08-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-08-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-08.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-08.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-09-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-09-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-09.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-09.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-10-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-10-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-10.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-10.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-11-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-11-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-11.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-11.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-12-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-12-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-12.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-12.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-13-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-13-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-13.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-13.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-14-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-14-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-14.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-14.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-15-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-15-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-15.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-15.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-16-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-16-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-16.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-16.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-17-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-17-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-17.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-17.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-18-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-18-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-18.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-18.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-19-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-19-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-19.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-19.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-20-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-20-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-20.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-20.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-21-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-21-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-21.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-21.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-22-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-22-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-22.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-22.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/index.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\index.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/project-details-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\project-details-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/project-details.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\project-details.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/project-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\project-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/project.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\project.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/service-details-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\service-details-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/service-details.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\service-details.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/service-white.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\service-white.html
+Content Type: text/html
+
+Uri: https://inversweb.com/product/html/reeni/service.html
+File Name: C:\Users\Admin\OneDrive\Desktop\my-portfolio\inversweb.com\product\html\reeni\service.html
+Content Type: text/html
+
